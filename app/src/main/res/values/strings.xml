@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Smart Wop</string>
+    <string name="sign_up">Sign up</string>
+    <string name="log_in">Log In</string>
+    <string name="please_click_back_again_to_exit">Please click back again to exit</string>
+    <string name="favorite" tools:ignore="DuplicateDefinition">Favorite</string>
+    <string name="cart" tools:ignore="DuplicateDefinition">Cart</string>
+    <string name="map" tools:ignore="DuplicateDefinition">Map</string>
+    <string name="home" tools:ignore="DuplicateDefinition">Home</string>
+    <string name="language_eng">Language(Eng)</string>
+    <string name="theme_light">Theme(light)</string>
+    <string name="share">Share</string>z
+    <string name="about">About</string>
+    <string name="settings">Settings</string>
+    <string name="log_out">Log Out</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+
+</resources>
